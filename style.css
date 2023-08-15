@@ -2,10 +2,11 @@ body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 20px;
+    background-color: rgb(231, 228, 32);
 }
 
 h1 {
-    color: #333;
+    color: rgb(44, 36, 36);
 }
 
 label {
@@ -21,7 +22,7 @@ input {
 button {
     padding: 10px 20px;
     background-color: #3498db;
-    color: #fff;
+    color: rgba(168, 81, 81, 0.404);
     border: none;
     cursor: pointer;
 }
